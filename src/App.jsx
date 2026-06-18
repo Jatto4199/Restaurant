@@ -10,7 +10,7 @@ import ContactPage from "./Pages/ContactPage";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import Services from "./Pages/Services";
-import NotFound from "./Pages/NotFound";
+import Notfound from "./Pages/Notfound";
 
 
 function App() {
