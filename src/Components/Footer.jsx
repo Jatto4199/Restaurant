@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 // 1. Removed Facebook, Instagram, and Twitter from here to fix the error
 import { Phone, MapPin, Clock, Mail } from "lucide-react"; 
-import myLogo from "../assets/myLogo.png";
+import myLogo from "../assets/MyLogo.png";
 
 export default function Footer() {
   const navLinks = [
